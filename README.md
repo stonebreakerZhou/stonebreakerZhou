@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 # Sean
 
-i am a 19-year-old AI student.
+I am a 19-year-old AI student.
 
-i 'm trying to break a stone every day.
+I 'm trying to break a stone every day.
 
-i 'm laughable young
+I 'm laughable young
 
 Email: [1120253490@bit.edu.cn](mailto:1120253490@bit.edu.cn)
 
