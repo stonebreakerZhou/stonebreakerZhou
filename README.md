@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **stonebreakerZhou/stonebreakerZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Sean
+
+i am a 19-year-old AI student.
+
+i 'm trying to break a stone every day.
+
+i 'm laughable young
+
+Email: [1120253490@bit.edu.cn](mailto:1120253490@bit.edu.cn)
+
+Blog Post: [stonebreakerZhou.github.io/My-Blog](https://stonebreakerZhou.github.io/My-Blog)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=wwaawwaaee&label=Visitors&color=blueviolet&style=flat-square)
+
+
+
